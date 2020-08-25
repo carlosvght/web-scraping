@@ -1,0 +1,7 @@
+- clone this project: **git clone git@github.com:OneBitCodeBlog/Web-Scraping-Target.git**
+- enter the folder **Web-Scraping-Target**
+- install gems with **bundle**
+- create database running **rails db:create db:migrate db:seed**
+- run **rails s or rails rails server**
+- now download this project, open other console, enter the folder and run **bundle**
+- run **ruby get_product_list.rb**
